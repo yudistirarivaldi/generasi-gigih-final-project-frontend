@@ -10,7 +10,7 @@ body {
 
 /* Chat Box */
 .chat-box {
-  max-height: calc(100vh - 30rem);
+  max-height: calc(200vh - 30rem);
   overflow-y: auto;
   background: rgb(25, 25, 25);
   border-radius: 20px;
